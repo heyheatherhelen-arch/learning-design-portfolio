@@ -1,7 +1,7 @@
 # Accessibility audit: From AI Competencies to Curriculum — Version 5
 
 **Audit date:** November 8, 2026  
-**Artifact:** `From_AI_Competencies_to_Curriculum_V5_Accessibility_Fix.html`  
+**Artifact:** `learning-experience.html`  
 **Target:** WCAG 2.2 Level AA  
 **Result:** **Not certified / conformance not established.** Automated and scripted checks passed in the tested areas; several manual success-criterion checks remain outstanding.
 
